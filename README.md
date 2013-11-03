@@ -1,2 +1,2 @@
-mkostin.github.com
+maxkostin.ru
 ==================
